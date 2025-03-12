@@ -1,5 +1,5 @@
 
-## Senior Full Stack Developer with 15+ years of experience, crafting scalable, high-performance applications.
+## Senior Software Engineer with 15+ years of experience, crafting scalable, high-performance applications.
 
 Specializing in **React, Vue.js, Node.js, Python, C#, and .NET frameworks**, I bring expertise in building enterprise-grade solutions, optimizing system performance, and architecting robust backend infrastructures.
 
