@@ -47,11 +47,3 @@ Specializing in **React, Vue.js, Node.js, Python, C#, and .NET frameworks**, I b
 - Unit & Integration Testing (Jest, Mocha, Cypress, Selenium, NUnit, xUnit)
 - API Documentation (Swagger, Postman, GraphiQL, gRPC Gateway)
 
-
-## 📊 My Github Stats:
-
-  ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoxx1231&count_private=true&show_icons=true&include_all_commits=true&hide_title=false&hide_rank=false&theme=highcontrast)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoxx1231&layout=compact&langs_count=4&hide=HTML,%20CSS&theme=highcontrast"/>
-
-## [Eduardo's Summary 🔗](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardoxx1231&show_icons=true&count_private=true&theme=highcontrast)
-
