@@ -23,7 +23,7 @@ With 7+ years of hands-on experience, I specialize in developing full-stack web 
 - **Performance:** SSR, SSG, Lazy Loading, Code Splitting, Lighthouse Optimization
 
 #### 🔧 Backend Development
-- **Languages & Frameworks:** Node.js, Express.js, Python (FastAPI, Flask, Django), C#/.NET Core, ASP.NET
+- **Languages & Frameworks:** Node.js, Express.js, Python (FastAPI, Flask, Django)
 - **API Design:** RESTful, GraphQL, gRPC, WebSockets, Webhooks
 - **Architectures:** Microservices, Serverless, Event-Driven, Clean Architecture
 - **Authentication:** JWT, OAuth2, Auth0, OpenID Connect
