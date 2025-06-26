@@ -1,61 +1,58 @@
-# 👨‍💻 Senior Software Engineer | 10+ Years of Experience
+# 👨‍💻 Senior Full Stack Software Developer | React | Vue | Node | Python
 
-## Crafting scalable, high-performance applications with precision and passion.
+## Building fast, scalable, and reliable applications—from UI to infrastructure
 
-Specializing in **React, Vue.js, Node.js, Python, C#, and .NET frameworks**, I build enterprise-grade solutions, optimize system performance, and architect robust backend infrastructures for modern web and cloud ecosystems.
+With 7+ years of hands-on experience, I specialize in developing full-stack web solutions using **React**, **Vue.js**, **Node.js**, and **Python**. I deliver clean, maintainable code with a deep understanding of modern frameworks, cloud platforms, and scalable backend architecture.
 
 ---
 
 ### 🚀 About Me
-- 🔥 Passionate about **AI-driven applications, cloud infrastructure, and microservices**.
-- 💡 Experienced in **high-traffic applications, distributed systems, and API integrations**.
-- 🤝 Open to collaborations on **AI integrations, fintech platforms, and cutting-edge web applications**.
-- 🎯 Always focused on **efficiency, scalability, and performance optimization**.
+- 🧠 Focused on **scalable systems, cloud-native development, and microservices architecture**
+- 🧹 Experienced in **building and optimizing complex applications** for SaaS, fintech, AI, and enterprise use
+- 🤝 Open to **collaborations on modern web apps, APIs, and AI-powered tools**
+- 🌟 Committed to **quality, reliability, and performance-first engineering**
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Expertise
 
-#### ⚛️ Frontend
-- **Frameworks & Libraries:** React.js, Next.js, Redux, Vue.js, Nuxt.js, Angular, Svelte
-- **Languages & Styling:** TypeScript, JavaScript (ES6+), TailwindCSS, Bootstrap, Material-UI, Chakra UI, Styled Components
-- **Visualization & Interaction:** WebSockets, WebRTC, D3.js, Three.js, Recharts, Chart.js, Highcharts
-- **Performance:** SSR, SSG, Lazy Loading, Code Splitting
+#### ⚛️ Frontend Development
+- **Frameworks:** React.js, Next.js, Vue.js, Nuxt.js, Angular, Svelte
+- **Languages & Styling:** TypeScript, JavaScript (ES6+), TailwindCSS, SCSS, Styled Components, MUI, Chakra UI
+- **Visualization:** D3.js, Chart.js, Recharts, Highcharts, Three.js
+- **Performance:** SSR, SSG, Lazy Loading, Code Splitting, Lighthouse Optimization
 
-#### 🔧 Backend
-- **Languages & Frameworks:** Node.js, Express.js, FastAPI, Flask, Django, ASP.NET Core, .NET Framework
-- **APIs & Architectures:** GraphQL, RESTful APIs, gRPC, Webhooks, Event-Driven Architecture
-- **Security & Access:** OAuth2, JWT, SSO, OpenID Connect
-- **Patterns:** Microservices, Serverless, Multi-Tenancy
+#### 🔧 Backend Development
+- **Languages & Frameworks:** Node.js, Express.js, Python (FastAPI, Flask, Django), C#/.NET Core, ASP.NET
+- **API Design:** RESTful, GraphQL, gRPC, WebSockets, Webhooks
+- **Architectures:** Microservices, Serverless, Event-Driven, Clean Architecture
+- **Authentication:** JWT, OAuth2, Auth0, OpenID Connect
 
-#### 🗄️ Database & Storage
-- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Firebase, CosmosDB
-- **Practices:** Query Optimization, Indexing, Replication, Data Warehousing
-- **Storage Services:** AWS S3, Azure Blob, Google Cloud Storage
+#### 🗄️ Databases & Storage
+- **SQL/NoSQL:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, Firebase
+- **Storage:** AWS S3, Azure Blob, GCP Storage
 
-#### ☁️ Cloud & DevOps
-- **AWS:** Lambda, EC2, S3, RDS, CloudFront, API Gateway, ECS, EKS
-- **Azure:** Functions, App Services, SQL Database, Service Bus, Kubernetes
-- **Google Cloud:** Cloud Functions, BigQuery, Pub/Sub
-- **Tools:** Docker, Kubernetes, Terraform, CI/CD (GitHub Actions, GitLab CI, Jenkins, CircleCI)
-- **Monitoring:** Datadog, Prometheus, ELK Stack, Sentry, New Relic
+#### ☁️ Cloud Platforms & DevOps
+- **AWS:** Lambda, EC2, RDS, S3, CloudFront, API Gateway
+- **Azure:** Functions, App Services, SQL DB, Blob Storage, Service Bus
+- **GCP:** Cloud Functions, Firestore, BigQuery
+- **Tools:** Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD, Jenkins
+- **Monitoring:** Prometheus, Grafana, Sentry, Datadog, ELK
 
-#### 🤖 AI & Data Science
-- **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenAI API
-- **NLP Tools:** spaCy, NLTK, GPT-4, LangChain, BERT
-- **Chatbots & AI Assistants:** Amazon Lex, Dialogflow, Rasa, IBM Watson
-- **CV & OCR:** OpenCV, Tesseract, Image Classification, Face Detection
+#### 🤖 AI & Automation
+- **ML & NLP:** OpenAI API, LangChain, GPT-4, TensorFlow, PyTorch, Scikit-learn
+- **Chatbot Platforms:** Rasa, Dialogflow, Amazon Lex
+- **Scripting:** Python, Bash, Node automation scripts
 
-#### 🧰 Other Tools & Technologies
-- **Web3 & Blockchain:** Ethereum, Solidity, Hardhat, Moralis, IPFS
-- **Messaging & Queues:** RabbitMQ, Kafka, NATS, Azure Service Bus
-- **Payments:** Stripe API, PayPal, Square, Razorpay
-- **Testing & QA:** Jest, Mocha, Cypress, Selenium, NUnit, xUnit
-- **Docs & Dev Tools:** Swagger, Postman, GraphiQL, gRPC Gateway
+#### 🔌 Integrations & Tools
+- **Messaging:** RabbitMQ, Kafka, NATS, Azure Service Bus
+- **Payments:** Stripe, PayPal, Square, Razorpay
+- **Testing:** Jest, Mocha, Cypress, Selenium, Postman, xUnit, NUnit
+- **Docs & APIs:** Swagger/OpenAPI, Postman, gRPC Gateway, GraphQL Playground
 
 ---
 
-### 📫 Let’s Connect!
-I’m always open to discussing new ideas, freelance opportunities, or full-time roles that challenge the status quo.
+### 📢 Let's Connect
+I'm open to freelance, contract, and full-time roles where I can bring my experience and energy to meaningful, impactful products. Let's build something exceptional together.
 
 ---
